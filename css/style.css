@@ -12,13 +12,34 @@ body {
 .card {
     background-color: var(--white);
     width: 384px;
+    height: 522px;
     margin: auto;
     padding: 24px;
     border-radius: 20px;
     border: 1px solid var(--black);
     box-shadow: 8px 8px var(--black);
 }
+.card-article-img {
+    border-radius: 10px;
+}
 
+.profile-container {
+    display: flex;
+    background-color: red;
+    width: 100%;
+}
+
+.profile-container img {
+    width: 32px;
+    height: 32px;
+    background-color: aqua;
+    align-self: center;
+    margin-right: 5.5px;
+}
+
+.section-para {
+    padding-bottom: 24px;
+}
 footer {
     position: absolute;
     bottom: 0;
