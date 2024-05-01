@@ -59,3 +59,21 @@ footer {
     width: 100%;
 }
 
+
+
+
+
+.figtree-500 {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+.figtree-800 {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
