@@ -25,11 +25,7 @@ body {
 
 .profile-container {
     display: flex;
- 
-    align-items: center;
-    background-color: red;
-    width: 100%;
-    
+    align-items: center;    
 }
 
 .profile-container img {
@@ -38,8 +34,8 @@ body {
     margin-right: 5.5px;
 }
 
-.profile-container  {
-    background-color: blue;
+.profile-container p {
+    margin: 0;
 }
 
 .section-para {
