@@ -43,6 +43,10 @@ body {
 .section-para {
     padding-bottom: 24px;
 }
+.section-para h2:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
 .section-para p {
     color: var(--grey);
     font-size: 16px;
