@@ -26,7 +26,7 @@ body {
 }
 
 .card-date {
-    font-size: 16px;
+    font-size: 1em;
 }
 
 .profile-container {
@@ -54,7 +54,7 @@ body {
 }
 .section-para p {
     color: var(--grey);
-    font-size: 16px;
+    font-size: 1em;
 }
 .section-p-title {
     background-color: var(--yellow);
