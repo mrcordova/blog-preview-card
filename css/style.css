@@ -36,12 +36,16 @@ body {
 
 .profile-container p {
     margin: 0;
+    font-weight: bold;
 }
 
 .section-para {
     padding-bottom: 24px;
 }
-
+.section-para p {
+    color: var(--grey);
+    font-size: 16px;
+}
 .section-p-title {
     background-color: var(--yellow);
     width: fit-content;
