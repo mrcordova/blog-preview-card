@@ -4,3 +4,11 @@
     --grey: hsl(0, 0%, 50%);
     --black: hsl(0, 0%, 7%);
 }
+
+body {
+    background-color:var(--yellow);
+}
+
+.card {
+    background-color: var(--white);
+}
