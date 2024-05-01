@@ -19,3 +19,9 @@ body {
     box-shadow: 8px 8px var(--black);
 }
 
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
