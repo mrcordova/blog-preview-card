@@ -25,6 +25,10 @@ body {
     padding-bottom: 24px;
 }
 
+.card-date {
+    font-size: 16px;
+}
+
 .profile-container {
     display: flex;
     align-items: center;    
@@ -67,7 +71,7 @@ footer {
 
 
 
-
+/* google fonts */
 
 .figtree-500 {
     font-family: "Figtree", sans-serif;
