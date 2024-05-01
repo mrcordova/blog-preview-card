@@ -41,6 +41,14 @@ body {
 .section-para {
     padding-bottom: 24px;
 }
+
+.section-p-title {
+    background-color: var(--yellow);
+    width: fit-content;
+    border-radius: 4px;
+    padding: 4px 12px;
+    font-weight: bold;
+}
 footer {
     position: absolute;
     bottom: 0;
