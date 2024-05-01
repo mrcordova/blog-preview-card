@@ -25,16 +25,21 @@ body {
 
 .profile-container {
     display: flex;
+ 
+    align-items: center;
     background-color: red;
     width: 100%;
+    
 }
 
 .profile-container img {
     width: 32px;
     height: 32px;
-    background-color: aqua;
-    align-self: center;
     margin-right: 5.5px;
+}
+
+.profile-container  {
+    background-color: blue;
 }
 
 .section-para {
