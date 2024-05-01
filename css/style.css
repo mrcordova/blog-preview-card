@@ -11,4 +11,6 @@ body {
 
 .card {
     background-color: var(--white);
+    width: 384px;
+    margin: auto;
 }
